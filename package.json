@@ -1,0 +1,15 @@
+{
+  "name": "node-demoniser",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "index.js"
+  },
+  "dependencies": {
+    "tmp-sync": "*",
+    "forever-monitor": "*",
+    "daemon-pid": "*",
+    "colors": "*",
+    "sha1": "*"
+  }
+}
